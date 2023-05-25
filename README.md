@@ -283,7 +283,7 @@ Check out these resources to learn more or get involved:
 -->
 
 ---
-
+<a href="https://app.daily.dev/oussama_basraoui"><img src="https://api.daily.dev/devcards/c45a48b8ab3a4fa2adc6d8ed275430c4.png?r=358" width="400" alt="Oussama Basraoui's Dev Card"/></a>
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
